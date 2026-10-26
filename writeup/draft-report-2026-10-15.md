@@ -1,9 +1,9 @@
 # Phantom Answers Near Capacity: do small language models print a wait time for a waiting line that never settles?
 
-**DRAFT, Oct 15, 2026 (final wording pass Oct 24, 2026). Drafted with Claude (AI); directed and approved by Jayden Ling.**
-**Status: Jayden designed and directed the study; Claude wrote the code and this text and ran the models under his direction. On Oct 26, 2026 Jayden read the short version and sections 4.1, 4.2, 7, 9 and 11 of this report and approved them as written; he has not reviewed the other sections, and he did not re-check the numbers himself. (Updated Oct 15: he did decide the LaTeX question, see section 3, and approved a blind Claude labeler for the hand-check instead of labeling it himself, see section 9; his optional 20-reply spot-check is still open.)**
+**Draft, Oct 15, 2026 (final wording pass Oct 24, 2026). Not peer-reviewed.**
+**Status:** I read and approved the short version and sections 4.1, 4.2, 7, 9 and 11 on Oct 26, 2026; I have not reviewed the other sections, and I did not re-check the numbers myself. I decided the LaTeX scoring question (section 3) and chose a blind AI labeler for the hand-check instead of labeling it myself (section 9); my optional 20-reply spot-check is still open. Who did what: see "Acknowledgments and AI use" in the README.
 
-Scope: the two runs scored on Oct 15 (qwen3:8b with thinking off, and gpt-oss:20b; sections 4 to 7), plus the qwen3:8b thinking-on run (1-agent questions only), which finished Oct 17 and is scored in section 8 (first results, not hand-checked). The hand-check (section 9) covers thinking off only and was done by a blind Claude labeler, not by Jayden.
+Scope: the two runs scored on Oct 15 (qwen3:8b with thinking off, and gpt-oss:20b; sections 4 to 7), plus the qwen3:8b thinking-on run (1-agent questions only), which finished Oct 17 and is scored in section 8 (first results, not hand-checked). The hand-check (section 9) covers thinking off only and was done by a blind AI labeler, not by me.
 
 ## The short version
 
