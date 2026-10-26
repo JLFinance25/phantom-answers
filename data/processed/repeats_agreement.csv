@@ -1,0 +1,4 @@
+setting,replies,questions,questions_all_reps_agree,match_temp0_label,phantom,false_alarm,format_failure
+gpt-oss-20b,300,100,100,300,0,0,0
+qwen3-8b-nothink,300,100,91,280,2,2,6
+qwen3-8b-think,300,100,87,251,5,0,13

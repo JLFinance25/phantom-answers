@@ -1,0 +1,13 @@
+setting,cued,capacity_stated,false_alarm_1,false_alarm_4,difference
+gpt-oss-20b,False,False,0.0,0.0,0.0
+gpt-oss-20b,False,True,0.0,0.0,0.0
+gpt-oss-20b,True,False,0.0,0.014285714285714285,0.014285714285714285
+gpt-oss-20b,True,True,0.0,0.0,0.0
+qwen3-8b-nothink,False,False,0.0,0.0,0.0
+qwen3-8b-nothink,False,True,0.0,0.0,0.0
+qwen3-8b-nothink,True,False,0.0,0.0,0.0
+qwen3-8b-nothink,True,True,0.0,0.0,0.0
+qwen3-8b-think,False,False,0.0,,
+qwen3-8b-think,False,True,0.0,,
+qwen3-8b-think,True,False,0.0,,
+qwen3-8b-think,True,True,0.0,,

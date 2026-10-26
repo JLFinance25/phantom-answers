@@ -1,0 +1,4 @@
+setting,n_replies,n_impossible,phantom,correct_flag,impossible_format_failure,n_settles,false_alarm,accurate,inaccurate_number,settles_format_failure,format_failure_rate
+gpt-oss-20b,1280,720,0,720,0,560,0,560,0,0,0.0
+qwen3-8b-nothink,1280,720,12,707,1,560,0,549,11,0,0.0008
+qwen3-8b-think,1280,720,13,586,121,560,0,492,0,68,0.1477
